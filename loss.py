@@ -1,7 +1,7 @@
 # import numpy as np
 import pylab as pl
 
-f = open('Bi227', 'r')
+f = open('spectra/bi227_loss.dat', 'r')
 
 data = []
 dataX = []
